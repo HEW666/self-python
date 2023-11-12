@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "8264a2c8e3043bad",
+    "type": "split",
+    "children": [
+      {
+        "id": "35563a41255c9333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f936034e379aa463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.while循环.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea172ba257586890",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce662f652086b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41087a243bf71e32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f283979b298390b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "516be82798115a4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44043786576f72dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fa6f838059d191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3747081e5b39123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4.while循环.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3ada72375ec8c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4.while循环.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "908a23fd7656cb68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22458506040a2dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4.while循环.md"
+              }
+            }
+          },
+          {
+            "id": "d4db5641d8351719",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "f936034e379aa463",
+  "lastOpenFiles": [
+    "5.for循环.md",
+    "4.while循环.md",
+    "1.安装和运行.md",
+    "2.python基础.md",
+    "6.def函数.md",
+    "3.python判断语句.md",
+    "Pasted Image 20231109213420_772.png",
+    "Pasted Image 20231109213126_699.png",
+    "Pasted Image 20231109213158_715.png",
+    "Excalidraw/成品/中断和结束循环.excalidraw.png",
+    "Excalidraw/中断和结束循环.excalidraw.md",
+    "Excalidraw/素材/QQ截图20231109212937.png",
+    "Excalidraw/素材/12624.png",
+    "Excalidraw/素材/12129.png",
+    "Excalidraw/99乘法表.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
+    "未命名",
+    "Excalidraw/成品",
+    "Excalidraw/成品/99乘法表.excalidraw.png",
+    "Excalidraw/素材",
+    "Excalidraw/Drawing 2023-11-07 17.21.54.excalidraw.png",
+    "Excalidraw/素材/Pasted Image 20231107172209_910.png",
+    "Excalidraw/Drawing 2023-11-07 17.37.43.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-07 17.12.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-07 17.11.36.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "思维图.canvas",
+    "笔记使用教程.md",
+    "[百度一下，你就知道.md",
+    "www.baidu.com.md",
+    "baidu.com.md",
+    "笔记软件使用教程.md",
+    "教程/未命名.md",
+    "教程",
+    "图片/安装和运行.md",
+    "图片",
+    "新建文件夹",
+    "yunxing.png.md"
+  ]
+}
