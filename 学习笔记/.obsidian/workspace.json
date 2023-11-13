@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.for循环.md",
+                "file": "1.安装和运行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.for循环.md",
+                "file": "1.安装和运行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.for循环.md",
+                "file": "1.安装和运行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.for循环.md"
+                "file": "1.安装和运行.md"
               }
             }
           },
@@ -158,14 +158,16 @@
   },
   "active": "db3aa8ed0f2c0768",
   "lastOpenFiles": [
-    "index.html",
-    "6.def函数.md",
-    "Excalidraw/picture/99乘法表.png",
+    "图片/命令提示符.png",
     "5.for循环.md",
+    "4.while循环.md",
+    "6.def函数.md",
     "1.安装和运行.md",
     "2.python基础.md",
+    "3.python判断语句.md",
+    "index.html",
+    "Excalidraw/picture/99乘法表.png",
     "Excalidraw/picture/中断和结束循环.png",
-    "4.while循环.md",
     "Excalidraw/picture/中断和结束循环.jpg.md",
     "assets/img/shiprock.jpg.md",
     "assets/img",
@@ -176,7 +178,6 @@
     "Excalidraw/中断和结束循环.excalidraw.md",
     "Excalidraw/99乘法表.excalidraw.md",
     "assets/img/philly-magic-garden.jpg.md",
-    "3.python判断语句.md",
     "Pasted Image 20231109213420_772.png",
     "Pasted Image 20231109213126_699.png",
     "Pasted Image 20231109213158_715.png",
