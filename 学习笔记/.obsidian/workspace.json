@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.python基础.md",
+                "file": "5.for循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.python基础.md",
+                "file": "5.for循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.python基础.md",
+                "file": "5.for循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.python基础.md"
+                "file": "5.for循环.md"
               }
             }
           },
@@ -156,11 +156,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "db3aa8ed0f2c0768",
+  "active": "41087a243bf71e32",
   "lastOpenFiles": [
-    "Excalidraw/picture/中断和结束循环.png",
-    "5.for循环.md",
     "6.def函数.md",
+    "Excalidraw/picture/99乘法表.png",
+    "5.for循环.md",
+    "1.安装和运行.md",
+    "2.python基础.md",
+    "Excalidraw/picture/中断和结束循环.png",
     "4.while循环.md",
     "Excalidraw/picture/中断和结束循环.jpg.md",
     "assets/img/shiprock.jpg.md",
@@ -169,12 +172,9 @@
     "Excalidraw/picture/中断和结束循环.png.md",
     "Excalidraw/picture/中断和结束循环.jpg",
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
-    "2.python基础.md",
     "Excalidraw/中断和结束循环.excalidraw.md",
     "Excalidraw/99乘法表.excalidraw.md",
-    "Excalidraw/picture/99乘法表.png",
     "assets/img/philly-magic-garden.jpg.md",
-    "1.安装和运行.md",
     "3.python判断语句.md",
     "Pasted Image 20231109213420_772.png",
     "Pasted Image 20231109213126_699.png",
