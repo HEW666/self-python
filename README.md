@@ -6,5 +6,3 @@
 <img src="https://img.shields.io/badge/Python-snow?logo=python&amp;logoColor=3776AB">
 
 </p>
-
-<img src="">
