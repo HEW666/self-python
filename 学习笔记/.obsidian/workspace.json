@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "6.def函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "6.def函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "6.def函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.安装和运行.md"
+                "file": "6.def函数.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "db3aa8ed0f2c0768",
   "lastOpenFiles": [
+    "1.安装和运行.md",
     "图片/命令提示符.png",
     "5.for循环.md",
     "4.while循环.md",
     "6.def函数.md",
-    "1.安装和运行.md",
     "2.python基础.md",
     "3.python判断语句.md",
     "index.html",
@@ -188,7 +188,6 @@
     "未命名",
     "Excalidraw/picture",
     "Excalidraw/素材",
-    "Excalidraw/Drawing 2023-11-07 17.21.54.excalidraw.png",
     "Excalidraw/Drawing 2023-11-07 17.37.43.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.12.34.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.11.36.excalidraw.md",
