@@ -11,9 +11,11 @@
             "id": "db3aa8ed0f2c0768",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/picture/函数的嵌套.png"
+                "file": "6.def函数.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/picture/函数的嵌套.png",
+                "file": "6.def函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/picture/函数的嵌套.png",
+                "file": "6.def函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/picture/函数的嵌套.png"
+                "file": "6.def函数.md"
               }
             }
           },
@@ -156,19 +158,19 @@
   },
   "active": "db3aa8ed0f2c0768",
   "lastOpenFiles": [
+    "5.for循环.md",
+    "4.while循环.md",
+    "6.def函数.md",
+    "Excalidraw/picture/函数的嵌套.png",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
-    "Excalidraw/picture/函数的嵌套.png",
     "Pasted Image 20231114204820_657.png",
-    "6.def函数.md",
     "Excalidraw/素材/函数嵌套案例.png",
     "Excalidraw/中断和结束循环.excalidraw.md",
     "Excalidraw/99乘法表.excalidraw.md",
     "2.python基础.md",
-    "5.for循环.md",
     "1.安装和运行.md",
     "图片/命令提示符.png",
-    "4.while循环.md",
     "3.python判断语句.md",
     "index.html",
     "Excalidraw/picture/99乘法表.png",
@@ -201,7 +203,6 @@
     "笔记软件使用教程.md",
     "教程/未命名.md",
     "教程",
-    "图片/安装和运行.md",
     "图片",
     "新建文件夹"
   ]
