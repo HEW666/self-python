@@ -11,11 +11,9 @@
             "id": "db3aa8ed0f2c0768",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "6.def函数.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/picture/函数的嵌套.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.def函数.md",
+                "file": "Excalidraw/picture/函数的嵌套.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.def函数.md",
+                "file": "Excalidraw/picture/函数的嵌套.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.def函数.md"
+                "file": "Excalidraw/picture/函数的嵌套.png"
               }
             }
           },
@@ -158,12 +156,19 @@
   },
   "active": "db3aa8ed0f2c0768",
   "lastOpenFiles": [
+    "Excalidraw/函数的嵌套.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
+    "Excalidraw/picture/函数的嵌套.png",
+    "Pasted Image 20231114204820_657.png",
+    "6.def函数.md",
+    "Excalidraw/素材/函数嵌套案例.png",
+    "Excalidraw/中断和结束循环.excalidraw.md",
+    "Excalidraw/99乘法表.excalidraw.md",
+    "2.python基础.md",
+    "5.for循环.md",
     "1.安装和运行.md",
     "图片/命令提示符.png",
-    "5.for循环.md",
     "4.while循环.md",
-    "6.def函数.md",
-    "2.python基础.md",
     "3.python判断语句.md",
     "index.html",
     "Excalidraw/picture/99乘法表.png",
@@ -175,15 +180,10 @@
     "Excalidraw/picture/中断和结束循环.png.md",
     "Excalidraw/picture/中断和结束循环.jpg",
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
-    "Excalidraw/中断和结束循环.excalidraw.md",
-    "Excalidraw/99乘法表.excalidraw.md",
     "assets/img/philly-magic-garden.jpg.md",
     "Pasted Image 20231109213420_772.png",
     "Pasted Image 20231109213126_699.png",
     "Pasted Image 20231109213158_715.png",
-    "Excalidraw/素材/QQ截图20231109212937.png",
-    "Excalidraw/素材/12624.png",
-    "Excalidraw/素材/12129.png",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
     "未命名",
     "Excalidraw/picture",
@@ -203,7 +203,6 @@
     "教程",
     "图片/安装和运行.md",
     "图片",
-    "新建文件夹",
-    "yunxing.png.md"
+    "新建文件夹"
   ]
 }
