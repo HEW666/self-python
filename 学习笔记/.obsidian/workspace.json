@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dfbf2bdb8776f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.数据容器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.def函数.md",
+                "file": "7.数据容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.def函数.md",
+                "file": "7.数据容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.def函数.md"
+                "file": "7.数据容器.md"
               }
             }
           },
@@ -156,11 +169,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "db3aa8ed0f2c0768",
+  "active": "2dfbf2bdb8776f0b",
   "lastOpenFiles": [
-    "5.for循环.md",
+    "2.python基础.md",
+    "3.python判断语句.md",
     "4.while循环.md",
+    "5.for循环.md",
     "6.def函数.md",
+    "7.数据容器.md",
     "Excalidraw/picture/函数的嵌套.png",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
@@ -168,10 +184,8 @@
     "Excalidraw/素材/函数嵌套案例.png",
     "Excalidraw/中断和结束循环.excalidraw.md",
     "Excalidraw/99乘法表.excalidraw.md",
-    "2.python基础.md",
     "1.安装和运行.md",
     "图片/命令提示符.png",
-    "3.python判断语句.md",
     "index.html",
     "Excalidraw/picture/99乘法表.png",
     "Excalidraw/picture/中断和结束循环.png",
