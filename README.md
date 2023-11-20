@@ -6,3 +6,6 @@
 <img src="https://img.shields.io/badge/Python-snow?logo=python&amp;logoColor=3776AB">
 
 </p>
+
+# 教程
+[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?share_source=copy_web&vd_source=989b7690fea86d212ee9daa5f2607c6b)
