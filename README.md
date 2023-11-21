@@ -11,4 +11,4 @@
 [黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?share_source=copy_web&vd_source=989b7690fea86d212ee9daa5f2607c6b)
 
 # 需记
-[记忆文件.md](%BC%C7%D2%E4%CE%C4%BC%FE.md)
+[记忆文件.md](记忆文件.md)
