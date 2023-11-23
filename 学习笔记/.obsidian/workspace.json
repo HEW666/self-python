@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#利用",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,14 +156,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2dfbf2bdb8776f0b",
+  "active": "41087a243bf71e32",
   "lastOpenFiles": [
+    "6.def函数.md",
+    "7.数据容器.md",
     "3.python判断语句.md",
     "4.while循环.md",
     "5.for循环.md",
     "2.python基础.md",
-    "7.数据容器.md",
-    "6.def函数.md",
     "Excalidraw/picture/函数的嵌套.png",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
