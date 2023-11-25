@@ -13,7 +13,7 @@ print(ege)
 num = ege.pop(0)
 print(num)
 # 5.取出最后一个元素(应是:30)
-num = ege.pop(-1)
+num = ege[-1]
 print(num)
 # 6.查找元素31，在列表中的下标位置
 num = ege.index(31)
