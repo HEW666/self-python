@@ -7,7 +7,7 @@ print(f"1. {data.index(11)}")
 print(f"2. {data[0]}")
 
 # 删除学生爱好中的football
-del data[2][1]
+del data[2][0]
 print(data)
 
 # 增加爱好:coding到爱好list内
