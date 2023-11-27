@@ -158,14 +158,14 @@
   },
   "active": "2dfbf2bdb8776f0b",
   "lastOpenFiles": [
-    "7.数据容器.md~",
-    "3.python判断语句.md",
-    "4.while循环.md",
-    "5.for循环.md",
     "6.def函数.md",
+    "7.数据容器.md",
+    "5.for循环.md",
+    "4.while循环.md",
+    "3.python判断语句.md",
     "2.python基础.md",
     "1.安装和运行.md",
-    "7.数据容器.md",
+    "7.数据容器.md~",
     "Excalidraw/picture/函数的嵌套.png",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
@@ -204,7 +204,6 @@
     "baidu.com.md",
     "笔记软件使用教程.md",
     "教程",
-    "图片",
-    "新建文件夹"
+    "图片"
   ]
 }
