@@ -12,4 +12,3 @@ for x in my_list:
 
 # 输出打印集合
 print(ass)
-
