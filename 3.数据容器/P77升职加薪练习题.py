@@ -26,7 +26,7 @@ worker = {
         "级别": 1
     }
 }
-for name in worker.keys():
+for name in worker:
     if worker[name]["级别"] == 1:
         worker[name]["级别"] += 1
         worker[name]["工资"] += 1000
