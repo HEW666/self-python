@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.数据容器.md",
+                "file": "1.安装和运行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.数据容器.md",
+                "file": "1.安装和运行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.数据容器.md",
+                "file": "1.安装和运行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.数据容器.md"
+                "file": "1.安装和运行.md"
               }
             }
           },
@@ -156,14 +156,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2dfbf2bdb8776f0b",
+  "active": "41087a243bf71e32",
   "lastOpenFiles": [
+    "2.python基础.md",
+    "7.数据容器.md",
     "5.for循环.md",
     "4.while循环.md",
-    "7.数据容器.md",
     "6.def函数.md",
     "3.python判断语句.md",
-    "2.python基础.md",
     "1.安装和运行.md",
     "7.数据容器.md~",
     "Excalidraw/picture/函数的嵌套.png",
