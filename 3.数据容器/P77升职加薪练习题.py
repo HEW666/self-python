@@ -26,6 +26,7 @@ worker = {
         "级别": 1
     }
 }
+print(worker)
 for name in worker:
     if worker[name]["级别"] == 1:
         worker[name]["级别"] += 1
