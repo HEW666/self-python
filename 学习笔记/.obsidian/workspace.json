@@ -23,9 +23,11 @@
             "id": "19000e3aed11f7ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/图片/第一行代码.png"
+                "file": "1.安装和运行.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/图片/第一行代码.png",
+                "file": "1.安装和运行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/图片/第一行代码.png",
+                "file": "1.安装和运行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/图片/第一行代码.png"
+                "file": "1.安装和运行.md"
               }
             }
           },
@@ -169,6 +171,7 @@
   },
   "active": "19000e3aed11f7ca",
   "lastOpenFiles": [
+    "Excalidraw/图片/第一行代码.png",
     "Excalidraw/素材/12129.png",
     "Excalidraw/素材/12624.png",
     "Excalidraw/素材/Pasted Image 20231107172209_910.png",
@@ -199,7 +202,6 @@
     "assets/img",
     "assets",
     "Excalidraw/picture/中断和结束循环.png.md",
-    "Excalidraw/picture/中断和结束循环.jpg",
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
     "assets/img/philly-magic-garden.jpg.md",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
