@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9da2107767d4f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8.函数进阶.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7031e1a36a490afd",
             "type": "leaf",
             "state": {
@@ -28,6 +16,16 @@
                 "file": "9.文件操作.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "19000e3aed11f7ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/图片/第一行代码.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.文件操作.md",
+                "file": "Excalidraw/图片/第一行代码.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.文件操作.md",
+                "file": "Excalidraw/图片/第一行代码.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.文件操作.md"
+                "file": "Excalidraw/图片/第一行代码.png"
               }
             }
           },
@@ -169,29 +167,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7031e1a36a490afd",
+  "active": "19000e3aed11f7ca",
   "lastOpenFiles": [
-    "8.函数进阶.md",
-    "9.文件操作.md",
+    "Excalidraw/素材/12129.png",
+    "Excalidraw/素材/12624.png",
+    "Excalidraw/素材/Pasted Image 20231107172209_910.png",
+    "Excalidraw/素材/中断和结束.png",
+    "Excalidraw/picture/中断和结束循环.png",
+    "Excalidraw/picture/99乘法表.png",
+    "Excalidraw/picture/函数的嵌套.png",
+    "Excalidraw/99乘法表.excalidraw.md",
+    "Excalidraw/函数的嵌套.excalidraw.md",
+    "Excalidraw/中断和结束循环.excalidraw.md",
+    "Excalidraw/素材/函数嵌套案例.png",
     "7.数据容器.md",
+    "9.文件操作.md",
+    "8.函数进阶.md",
+    "4.while循环.md",
+    "5.for循环.md",
     "1.安装和运行.md",
     "2.python基础.md",
-    "5.for循环.md",
-    "4.while循环.md",
     "6.def函数.md",
     "3.python判断语句.md",
     "7.数据容器.md~",
-    "Excalidraw/picture/函数的嵌套.png",
-    "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
     "Pasted Image 20231114204820_657.png",
-    "Excalidraw/素材/函数嵌套案例.png",
-    "Excalidraw/中断和结束循环.excalidraw.md",
-    "Excalidraw/99乘法表.excalidraw.md",
-    "图片/命令提示符.png",
+    "Excalidraw/图片/命令提示符.png",
     "index.html",
-    "Excalidraw/picture/99乘法表.png",
-    "Excalidraw/picture/中断和结束循环.png",
     "Excalidraw/picture/中断和结束循环.jpg.md",
     "assets/img/shiprock.jpg.md",
     "assets/img",
@@ -200,9 +202,6 @@
     "Excalidraw/picture/中断和结束循环.jpg",
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
     "assets/img/philly-magic-garden.jpg.md",
-    "Pasted Image 20231109213420_772.png",
-    "Pasted Image 20231109213126_699.png",
-    "Pasted Image 20231109213158_715.png",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
     "未命名",
     "Excalidraw/picture",
@@ -216,8 +215,7 @@
     "笔记使用教程.md",
     "[百度一下，你就知道.md",
     "www.baidu.com.md",
-    "baidu.com.md",
     "教程",
-    "图片"
+    "Excalidraw/图片"
   ]
 }
