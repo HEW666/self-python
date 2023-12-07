@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7031e1a36a490afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.文件操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.函数进阶.md",
+                "file": "9.文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8.函数进阶.md",
+                "file": "9.文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8.函数进阶.md"
+                "file": "9.文件操作.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b9da2107767d4f3c",
+  "active": "7031e1a36a490afd",
   "lastOpenFiles": [
-    "7.数据容器.md",
     "8.函数进阶.md",
+    "9.文件操作.md",
+    "7.数据容器.md",
     "1.安装和运行.md",
     "2.python基础.md",
     "5.for循环.md",
@@ -203,7 +217,6 @@
     "[百度一下，你就知道.md",
     "www.baidu.com.md",
     "baidu.com.md",
-    "笔记软件使用教程.md",
     "教程",
     "图片"
   ]
