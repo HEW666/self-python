@@ -3,18 +3,15 @@
 """
 # 第一种方法 - 循环
 with open('练习题.txt', 'r', encoding="UTF-8") as f:
-    sum = f.read().replace("\n", " ")
-    data = sum.split(" ")
+    sum = f.read().split()
     num = 0
-    for x in data:
+    for x in sum:
         if x == "world":
             num += 1
-    print(data)
+    print(sum)
     print(f"出现次数为{num}")
 
-# 第二种方法 - 统计
+# 第二种方法 - 统计 - count
 with open('练习题.txt', 'r', encoding="UTF-8") as f:
-    sum = f.read().replace("\n", " ")
-    data = sum.split(" ")
-    num = data.count("world")
+    num = f.read().count("world")
     print(f"出现次数为{num}")
