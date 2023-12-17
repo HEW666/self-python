@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.文件操作.md",
+                "file": "11.模块.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.文件操作.md",
+                "file": "11.模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.文件操作.md",
+                "file": "11.模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.文件操作.md"
+                "file": "11.模块.md"
               }
             }
           },
@@ -158,9 +158,18 @@
   },
   "active": "c6b1da05388cce6e",
   "lastOpenFiles": [
-    "10.异常.md",
-    "11.模块.md",
     "Excalidraw/学习/7.模块_包/自定义模块.png",
+    "11.模块.md",
+    "[自定义模块.png.md",
+    "10.异常.md",
+    "9.文件操作.md",
+    "3.python判断语句.md",
+    "2.python基础.md",
+    "4.while循环.md",
+    "5.for循环.md",
+    "6.def函数.md",
+    "7.数据容器.md",
+    "8.函数进阶.md",
     "Excalidraw/学习/7.模块_包/模块的导入方式.png",
     "Excalidraw/学习/7.模块_包",
     "Excalidraw/学习/pic/自定义模块.png",
@@ -180,18 +189,10 @@
     "Excalidraw/学习/1.判断循环加减输出",
     "Excalidraw/学习/a判断循环加减输出",
     "Excalidraw/学习/数据容器",
-    "6.def函数.md",
-    "8.函数进阶.md",
-    "9.文件操作.md",
-    "7.数据容器.md",
     "1.安装和运行.md",
     "Excalidraw/99乘法表.excalidraw.md",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/中断和结束循环.excalidraw.md",
-    "4.while循环.md",
-    "5.for循环.md",
-    "2.python基础.md",
-    "3.python判断语句.md",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
     "Excalidraw/picture/中断和结束循环.jpg.md",
     "assets/img/shiprock.jpg.md",
@@ -203,7 +204,6 @@
     "Excalidraw/Drawing 2023-11-07 17.12.34.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.11.36.excalidraw.md",
     "未命名.canvas",
-    "思维图.canvas",
-    "笔记使用教程.md"
+    "思维图.canvas"
   ]
 }
