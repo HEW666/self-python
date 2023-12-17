@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.模块.md",
+                "file": "9.文件操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.模块.md",
+                "file": "9.文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.模块.md",
+                "file": "9.文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.模块.md"
+                "file": "9.文件操作.md"
               }
             }
           },
@@ -160,51 +160,50 @@
   "lastOpenFiles": [
     "10.异常.md",
     "11.模块.md",
+    "Excalidraw/学习/7.模块_包/自定义模块.png",
+    "Excalidraw/学习/7.模块_包/模块的导入方式.png",
+    "Excalidraw/学习/7.模块_包",
+    "Excalidraw/学习/pic/自定义模块.png",
+    "Excalidraw/学习/pic/模块的导入方式.png",
+    "Excalidraw/学习/pic",
+    "Excalidraw/学习/5.文件操作/需求1.png",
+    "Excalidraw/学习/5.文件操作/需求.png",
+    "Excalidraw/学习/5.文件操作/读取文件操作语法汇总.png",
+    "Excalidraw/学习/5.文件操作/文件写入.png",
+    "Excalidraw/学习/5.文件操作/三种基础访问模式.png",
+    "Excalidraw/学习/5.文件操作",
+    "Excalidraw/学习/文件操作/需求1.png",
+    "Excalidraw/学习/文件操作",
+    "Excalidraw/学习/4.函数进阶",
+    "Excalidraw/学习/3.数据容器",
+    "Excalidraw/学习/2.函数",
+    "Excalidraw/学习/1.判断循环加减输出",
+    "Excalidraw/学习/a判断循环加减输出",
+    "Excalidraw/学习/数据容器",
+    "6.def函数.md",
+    "8.函数进阶.md",
     "9.文件操作.md",
     "7.数据容器.md",
-    "8.函数进阶.md",
     "1.安装和运行.md",
-    "Excalidraw/图片/第一行代码.png",
-    "Excalidraw/素材/12129.png",
-    "Excalidraw/素材/12624.png",
-    "Excalidraw/素材/Pasted Image 20231107172209_910.png",
-    "Excalidraw/素材/中断和结束.png",
-    "Excalidraw/picture/中断和结束循环.png",
-    "Excalidraw/picture/99乘法表.png",
-    "Excalidraw/picture/函数的嵌套.png",
     "Excalidraw/99乘法表.excalidraw.md",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/中断和结束循环.excalidraw.md",
-    "Excalidraw/素材/函数嵌套案例.png",
     "4.while循环.md",
     "5.for循环.md",
     "2.python基础.md",
-    "6.def函数.md",
     "3.python判断语句.md",
-    "7.数据容器.md~",
     "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
-    "Pasted Image 20231114204820_657.png",
-    "index.html",
     "Excalidraw/picture/中断和结束循环.jpg.md",
     "assets/img/shiprock.jpg.md",
-    "assets/img",
-    "assets",
     "Excalidraw/picture/中断和结束循环.png.md",
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
     "assets/img/philly-magic-garden.jpg.md",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
-    "未命名",
-    "Excalidraw/picture",
-    "Excalidraw/素材",
     "Excalidraw/Drawing 2023-11-07 17.37.43.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.12.34.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.11.36.excalidraw.md",
-    "Excalidraw",
     "未命名.canvas",
     "思维图.canvas",
-    "笔记使用教程.md",
-    "[百度一下，你就知道.md",
-    "教程",
-    "Excalidraw/图片"
+    "笔记使用教程.md"
   ]
 }
