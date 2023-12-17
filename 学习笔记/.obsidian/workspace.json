@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.模块.md",
+                "file": "11.模块_包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.模块.md",
+                "file": "11.模块_包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.模块.md",
+                "file": "11.模块_包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.模块.md"
+                "file": "11.模块_包.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6b1da05388cce6e",
+  "active": "41087a243bf71e32",
   "lastOpenFiles": [
     "Excalidraw/学习/7.模块_包/自定义模块.png",
-    "11.模块.md",
+    "11.模块_包.md",
     "[自定义模块.png.md",
     "10.异常.md",
     "9.文件操作.md",
