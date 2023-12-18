@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "8.函数进阶.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "8.函数进阶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.安装和运行.md",
+                "file": "8.函数进阶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.安装和运行.md"
+                "file": "8.函数进阶.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "c6b1da05388cce6e",
   "lastOpenFiles": [
-    "10.异常_模块_包.md",
+    "7.数据容器.md",
     "9.文件操作.md",
+    "10.异常_模块_包.md",
+    "1.安装和运行.md",
+    "1.安装和运行.md~",
     "Excalidraw/学习/7.异常_模块_包/自定义模块.png",
     "Excalidraw/学习/7.异常_模块_包/模块的导入方式.png",
     "Excalidraw/学习/7.异常_模块_包",
@@ -176,7 +179,6 @@
     "4.while循环.md",
     "5.for循环.md",
     "6.def函数.md",
-    "7.数据容器.md",
     "8.函数进阶.md",
     "Excalidraw/学习/7.模块_包/模块的导入方式.png",
     "Excalidraw/学习/7.模块_包",
@@ -189,8 +191,6 @@
     "Excalidraw/学习/文件操作",
     "Excalidraw/学习/4.函数进阶",
     "Excalidraw/学习/3.数据容器",
-    "Excalidraw/学习/2.函数",
-    "1.安装和运行.md",
     "Excalidraw/99乘法表.excalidraw.md",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/中断和结束循环.excalidraw.md",
