@@ -1,5 +1,4 @@
 # 文件处理
-
 def print_file_info(file_name):
     """
     将文件内容输出
@@ -22,3 +21,8 @@ def append_to_file(file_name, data):
     f.write(data)
     f.write("\n")
     f.close()
+
+
+if __name__ == "__main__":
+    print_file_info("1.txt")
+    append_to_file("1.txt", "将进酒")
