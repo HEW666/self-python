@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "9.文件操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "9.文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "9.文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.异常_模块_包.md"
+                "file": "9.文件操作.md"
               }
             }
           },
@@ -158,12 +158,14 @@
   },
   "active": "c6b1da05388cce6e",
   "lastOpenFiles": [
-    "Excalidraw/学习/7.异常_模块_包/知名的第三方包.png",
-    "8.函数进阶.md",
-    "7.数据容器.md",
-    "9.文件操作.md",
+    "Excalidraw/学习/7.异常_模块_包/P98综合案例.png",
     "10.异常_模块_包.md",
+    "9.文件操作.md",
+    "8.函数进阶.md",
+    "6.def函数.md",
+    "7.数据容器.md",
     "1.安装和运行.md",
+    "Excalidraw/学习/7.异常_模块_包/知名的第三方包.png",
     "1.安装和运行.md~",
     "Excalidraw/学习/7.异常_模块_包/自定义模块.png",
     "Excalidraw/学习/7.异常_模块_包/模块的导入方式.png",
@@ -180,14 +182,12 @@
     "2.python基础.md",
     "4.while循环.md",
     "5.for循环.md",
-    "6.def函数.md",
     "Excalidraw/学习/7.模块_包/模块的导入方式.png",
     "Excalidraw/学习/7.模块_包",
     "Excalidraw/学习/pic/自定义模块.png",
     "Excalidraw/学习/pic/模块的导入方式.png",
     "Excalidraw/学习/pic",
     "Excalidraw/学习/5.文件操作/需求1.png",
-    "Excalidraw/学习/5.文件操作/需求.png",
     "Excalidraw/学习/5.文件操作",
     "Excalidraw/学习/文件操作",
     "Excalidraw/学习/4.函数进阶",
