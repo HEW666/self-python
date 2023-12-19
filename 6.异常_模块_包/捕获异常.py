@@ -17,7 +17,13 @@ except FileNotFoundError as e:
     print(f"出现了错误，代码：{e}")
 """
 try:
-    # f = open("1.txt", "r", encoding="UTF-8")
-    print(name)
+    f = open("1.txt", "r", encoding="UTF-8")
+    print(f)
 except (FileNotFoundError, NameError) as e:
     print(f"出现了错误，代码：{e}")
+    """
+      引用多个错误
+        如果文件不存在会报错
+        如果输出内容不对会报错 
+    """
+
