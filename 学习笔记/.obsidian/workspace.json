@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6b1da05388cce6e",
+            "id": "ffbc95fd020c6186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "11.可视化图表.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "11.可视化图表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "11.可视化图表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.异常_模块_包.md"
+                "file": "11.可视化图表.md"
               }
             }
           },
@@ -156,15 +156,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6b1da05388cce6e",
+  "active": "ffbc95fd020c6186",
   "lastOpenFiles": [
-    "8.函数进阶.md",
+    "1.安装和运行.md",
+    "11.可视化图表.md",
+    "Excalidraw/picture/折线图GPD显示.png",
+    "Pasted image 20231221212943.png",
     "10.异常_模块_包.md",
+    "8.函数进阶.md",
     "9.文件操作.md",
     "7.数据容器.md",
     "Excalidraw/学习/7.异常_模块_包/P98综合案例.png",
     "6.def函数.md",
-    "1.安装和运行.md",
     "Excalidraw/学习/7.异常_模块_包/知名的第三方包.png",
     "1.安装和运行.md~",
     "Excalidraw/学习/7.异常_模块_包/自定义模块.png",
@@ -184,8 +187,6 @@
     "5.for循环.md",
     "Excalidraw/学习/7.模块_包/模块的导入方式.png",
     "Excalidraw/学习/7.模块_包",
-    "Excalidraw/学习/pic/自定义模块.png",
-    "Excalidraw/学习/pic/模块的导入方式.png",
     "Excalidraw/学习/pic",
     "Excalidraw/学习/5.文件操作",
     "Excalidraw/学习/文件操作",
@@ -202,7 +203,6 @@
     "assets/img/philly-magic-garden.jpg.md",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 17.37.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-07 17.12.34.excalidraw.md",
     "未命名.canvas",
     "思维图.canvas"
   ]
