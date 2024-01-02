@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "871712019cb37da0",
+        "id": "73310736b2b8abcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ffbc95fd020c6186",
+            "id": "8cd54691b65ed4c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.可视化图表.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.可视化图表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.可视化图表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "11.可视化图表.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,14 +149,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ffbc95fd020c6186",
+  "active": "8cd54691b65ed4c6",
   "lastOpenFiles": [
+    "11.可视化图表.md",
+    "未命名.canvas",
+    "2024-01-02.md",
     "Excalidraw/picture/基础时间线柱状图.png",
     "Excalidraw/picture/基础时间线柱状图.mp4",
     "Excalidraw/picture/QQ202412-22529-HD.mp4",
     "Excalidraw/picture/基础柱状图.png",
     "10.异常_模块_包.md",
-    "11.可视化图表.md",
     "Excalidraw/picture/河南省疫情地图.png",
     "Excalidraw/picture/全国疫情地图.png",
     "Excalidraw/picture/可视化地图测试.png",
@@ -178,7 +173,6 @@
     "6.def函数.md",
     "Excalidraw/学习/7.异常_模块_包/知名的第三方包.png",
     "1.安装和运行.md~",
-    "Excalidraw/学习/7.异常_模块_包/自定义模块.png",
     "Excalidraw/学习/7.异常_模块_包",
     "Excalidraw/学习/7.异常-模块_包",
     "11.模块_包 1.md",
@@ -203,8 +197,6 @@
     "Excalidraw/成品/中断和结束循环.excalidraw.png.md",
     "assets/img/philly-magic-garden.jpg.md",
     "Excalidraw/Drawing 2023-11-09 20.49.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-07 17.37.43.excalidraw.md",
-    "未命名.canvas",
     "思维图.canvas"
   ]
 }
