@@ -2,7 +2,7 @@ import json
 from pyecharts.charts import Map
 from pyecharts.options import *
 
-f = open("数据/疫情.txt", "r", encoding="UTF-8")  # 读取数据文件
+f = open("数据/疫情.json", "r", encoding="UTF-8")  # 读取数据文件
 data = f.read()  # 获取全部文数据
 f.close()  # 关闭文件
 # 将json转换为Python字典
