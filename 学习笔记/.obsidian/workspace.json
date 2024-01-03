@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,8 +148,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8cd54691b65ed4c6",
+  "active": "41087a243bf71e32",
   "lastOpenFiles": [
+    "Excalidraw/picture/1960-2019全球GDP前8.png",
+    "Excalidraw/picture/1960-2019全球GDP前8.mp4",
     "11.可视化图表.md",
     "未命名.canvas",
     "2024-01-02.md",
@@ -186,7 +187,6 @@
     "Excalidraw/学习/7.模块_包",
     "Excalidraw/学习/pic",
     "Excalidraw/学习/5.文件操作",
-    "Excalidraw/学习/文件操作",
     "Excalidraw/99乘法表.excalidraw.md",
     "Excalidraw/函数的嵌套.excalidraw.md",
     "Excalidraw/中断和结束循环.excalidraw.md",
