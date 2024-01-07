@@ -2,5 +2,10 @@
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
   "typewriter-mode",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-mind-map",
+  "better-word-count",
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-advanced-slides"
 ]

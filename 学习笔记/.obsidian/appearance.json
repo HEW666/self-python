@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "baseFontSize": 15
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "cssTheme": "Red Graphite",
+  "interfaceFontFamily": ".萍方-简",
+  "translucency": false
 }
