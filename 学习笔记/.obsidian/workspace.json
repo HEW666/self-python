@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8264a2c8e3043bad",
+    "type": "split",
+    "children": [
+      {
+        "id": "73310736b2b8abcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7b7639bd014655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12.面对对象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea172ba257586890",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce662f652086b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41087a243bf71e32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f283979b298390b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "516be82798115a4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44043786576f72dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7fa6f838059d191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3747081e5b39123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12.面对对象.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3ada72375ec8c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "12.面对对象.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "908a23fd7656cb68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22458506040a2dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "12.面对对象.md"
+              }
+            }
+          },
+          {
+            "id": "d4db5641d8351719",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "5c7b7639bd014655",
+  "lastOpenFiles": [
+    "11.可视化图表.md",
+    "12.面对对象.md",
+    "9.文件操作.md",
+    "Excalidraw/picture/成员方法.png",
+    "Excalidraw/99乘法表.excalidraw.md",
+    "Excalidraw/成员方法.md",
+    "Excalidraw/7215438.png",
+    "Pasted Image 20240107215536_032.png",
+    "215203.png",
+    "10.异常_模块_包.md",
+    "Pasted Image 20240104203150_166.jpg",
+    "Pasted Image 20240104203150_159.jpg",
+    "2.python基础.md",
+    "Excalidraw/Drawing 2024-01-04 20.30.54.excalidraw.md",
+    "Excalidraw/报名.png",
+    "Excalidraw/函数的嵌套.excalidraw.md",
+    "Excalidraw/中断和结束循环.excalidraw.md",
+    "Pasted Image 20240104203109_563.png",
+    "Excalidraw/picture/1960-2019全球GDP前8.png",
+    "Excalidraw/picture/1960-2019全球GDP前8.mp4",
+    "未命名.canvas",
+    "2024-01-02.md",
+    "Excalidraw/picture/基础时间线柱状图.png",
+    "Excalidraw/picture/基础时间线柱状图.mp4",
+    "Excalidraw/picture/QQ202412-22529-HD.mp4",
+    "1.安装和运行.md",
+    "8.函数进阶.md",
+    "7.数据容器.md",
+    "6.def函数.md",
+    "1.安装和运行.md~",
+    "Excalidraw/学习/7.异常_模块_包",
+    "Excalidraw/学习/7.异常-模块_包",
+    "11.模块_包 1.md",
+    "10.异常.md",
+    "10.异常.md~",
+    "[自定义模块.png.md",
+    "3.python判断语句.md",
+    "4.while循环.md",
+    "5.for循环.md",
+    "Excalidraw/学习/7.模块_包",
+    "Excalidraw/学习/pic",
+    "Excalidraw/学习/5.文件操作",
+    "Excalidraw/Drawing 2023-11-14 20.47.19.excalidraw.md",
+    "Excalidraw/picture/中断和结束循环.jpg.md",
+    "assets/img/shiprock.jpg.md",
+    "Excalidraw/picture/中断和结束循环.png.md",
+    "思维图.canvas"
+  ]
+}
