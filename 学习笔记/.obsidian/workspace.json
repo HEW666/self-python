@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "12.面向对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "12.面向对象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.异常_模块_包.md",
+                "file": "12.面向对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.异常_模块_包.md"
+                "file": "12.面向对象.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "dcf4cc884c00acf1",
   "lastOpenFiles": [
+    "10.异常_模块_包.md",
     "12.面向对象.md",
     "1.安装和运行.md",
     "2.python基础.md",
@@ -168,7 +169,6 @@
     "5.for循环.md",
     "7.数据容器.md",
     "9.文件操作.md",
-    "10.异常_模块_包.md",
     "11.可视化图表.md",
     "8.函数进阶.md",
     "Excalidraw/Drawing 2024-02-01 11.47.25.excalidraw.md",
