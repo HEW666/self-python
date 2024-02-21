@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b710d841be1b7c0e",
+        "id": "813a7ca29b4d7fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "e31f5cfe6a231ea7",
+            "id": "9a595a637298172c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "13.MySQL数据库.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/picture/中断和结束循环.png",
+                "file": "13.MySQL数据库.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/picture/中断和结束循环.png",
+                "file": "13.MySQL数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/picture/中断和结束循环.png"
+                "file": "13.MySQL数据库.md"
               }
             }
           },
@@ -153,18 +157,20 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "41087a243bf71e32",
+  "active": "9a595a637298172c",
   "lastOpenFiles": [
+    "1.安装和运行.md",
+    "13.MySQL数据库.md",
+    "Excalidraw/picture/1960-2019全球GDP前8.gif",
+    "Excalidraw/学习/0.安装和运行/命令提示符.png",
+    "Excalidraw/学习/0.安装和运行/第一行代码.png",
+    "Excalidraw/picture/成员方法.png",
+    "12.面向对象.md",
+    "Excalidraw/picture/中断和结束循环.png",
     "5.for循环.md",
     "Excalidraw/学习/0.安装和运行/中断和结束.png",
     "4.while循环.md",
-    "Excalidraw/picture/中断和结束循环.png",
     "6.def函数.md",
-    "12.面向对象.md",
-    "13.MySQL数据库.md",
-    "1.安装和运行.md",
-    "Excalidraw/学习/0.安装和运行/命令提示符.png",
-    "Excalidraw/学习/0.安装和运行/第一行代码.png",
     "Excalidraw/学习/0.安装和运行",
     "Excalidraw/学习/新建文件夹",
     "11.可视化图表.md",
@@ -191,8 +197,6 @@
     "Omnivore",
     "Excalidraw/学习/8.面向对象/封装练习题.png",
     "Excalidraw/picture/基础柱状图.png",
-    "Excalidraw/picture/基础时间线柱状图.gif",
-    "Excalidraw/picture/1960-2019全球GDP前8.gif",
     "Excalidraw/学习/8.面向对象",
     "Excalidraw/学习/8.面向 对象",
     "Excalidraw/picture/未命名.canvas",
