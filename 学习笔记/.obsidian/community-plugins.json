@@ -1,11 +1,9 @@
 [
-  "obsidian-mind-map",
-  "editing-toolbar",
   "obsidian-reading-time",
-  "discordian-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-advanced-slides",
-  "obsidian-omnivore",
   "obsidian-style-settings",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "discordian-plugin",
+  "editing-toolbar",
+  "obsidian-mind-map"
 ]
