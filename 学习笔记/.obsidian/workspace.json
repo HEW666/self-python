@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.MySQL数据库.md",
+                "file": "需记代码.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.MySQL数据库.md",
+                "file": "需记代码.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.MySQL数据库.md",
+                "file": "需记代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.MySQL数据库.md"
+                "file": "需记代码.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "9afdf5dde43556f8",
   "lastOpenFiles": [
+    "11.MySQL数据库.md",
+    "需记代码.md",
     "10.面向对象.md",
     "9.可视化图表.md",
     "8.异常_模块_包.md",
@@ -164,7 +166,6 @@
     "5.数据容器.md",
     "6.def函数.md",
     "8.函数进阶.md",
-    "11.MySQL数据库.md",
     "4.循环.md",
     "5..md",
     "4.while循环.md",
@@ -202,7 +203,6 @@
     "Excalidraw/picture/未命名.canvas",
     "Excalidraw/picture/1960-2019全球GDP前8.mp4",
     "Excalidraw/99乘法表.excalidraw.md",
-    "Excalidraw/成员方法.md",
     "未命名.canvas",
     "Excalidraw/picture/基础时间线柱状图.mp4",
     "思维图.canvas"
