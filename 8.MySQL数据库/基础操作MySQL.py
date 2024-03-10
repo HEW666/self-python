@@ -18,3 +18,5 @@ results = cursor.fetchall()  # 接受返回数据
 for r in results:
     # 遍历输出
     print(r)
+
+conn.close()
