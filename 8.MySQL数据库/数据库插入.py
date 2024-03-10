@@ -13,7 +13,7 @@ cursor = conn.cursor()
 # 选择数据库
 conn.select_db("world")
 # 执行sql
-cursor.execute("insert into student values(21, '周雅', 24, '女')")
+cursor.execute("insert into student values(22, '赵明', 27, '男')")
 # 通过commit确认。
 # 也可以在 Connection 里写入 autocommit=True
 # conn.commit()
